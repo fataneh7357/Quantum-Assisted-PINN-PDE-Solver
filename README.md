@@ -60,7 +60,7 @@ Explainable-QAPINN/
 To reproduce the experiments:
 
 1. Clone the repository.
-2. Install the required Python packages listed `requirements.txt` .
+2. Install the required Python packages listed in `requirements.txt` .
 3. Open the corresponding notebooks.
 4. Run the cells in order.
 5. Use the same model configurations, random seeds, training epochs, and PDE parameters specified in each notebook.
