@@ -52,8 +52,6 @@ Explainable-QAPINN/
 ├── Key Findings/    # Key Findings
 ├── Future Works/    # Future Works
 ├── presentation/    # Project presentation
-├── src/             # Reusable source code
-├── requirements.txt
 ├── LICENSE
 └── README.md
 ```
