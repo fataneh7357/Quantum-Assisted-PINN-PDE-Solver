@@ -54,6 +54,24 @@ Explainable-QAPINN/
 ├── LICENSE
 └── README.md
 ```
+## Reproducibility
+
+To reproduce the experiments:
+
+1. Clone the repository.
+2. Install the required Python packages:
+
+```bash
+pip install pennylane
+```
+
+3. Open the corresponding notebooks.
+4. Run the cells in order.
+5. Use the same model configurations, random seeds, training epochs, and PDE parameters specified in each notebook.
+6. The experiments use the PennyLane `default.qubit` simulator and do not require quantum hardware.
+
+All reported results, figures, and configurations are shown at the end of each notebook.
+
 
 ## Team
 
