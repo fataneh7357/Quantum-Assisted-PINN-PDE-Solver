@@ -60,8 +60,8 @@ Explainable-QAPINN/
 
 ## Team
 
-**[Your Name]** — Allen–Cahn equation and QAPINN analysis
-**[Teammate Name]** — Heat equation and QAPINN analysis
+**[Fataneh Bakherad]** — Allen–Cahn equation and QAPINN analysis
+**[Mehrdad Ghanbari Mobarakeh]** — Heat equation and QAPINN analysis
 
 ## Objective
 
