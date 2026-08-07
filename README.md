@@ -59,18 +59,18 @@ Explainable-QAPINN/
 To reproduce the experiments:
 
 1. Clone the repository.
-2. Install the required Python packages:
-
-```bash
-pip install pennylane
-```
-
+2. Install the required Python packages listed requirements.txt .
 3. Open the corresponding notebooks.
 4. Run the cells in order.
 5. Use the same model configurations, random seeds, training epochs, and PDE parameters specified in each notebook.
 6. The experiments use the PennyLane `default.qubit` simulator and do not require quantum hardware.
 
 All reported results, figures, and configurations are shown at the end of each notebook.
+
+### Computational Reproducibility Note
+
+The 6-qubit Allen–Cahn experiments were computationally intensive and resulted in an out-of-memory (OOM) failure in the cloud runtime. Because the experiment was executed in an ephemeral environment, the runtime was restarted and the unmounted checkpoint directory was lost along with the intermediate training state. Consequently, the original 6-qubit run could not be resumed from a checkpoint. Numerical results that had already been recorded before the failure were retained and used for the reported analysis and figures.
+
 
 
 ## Team
