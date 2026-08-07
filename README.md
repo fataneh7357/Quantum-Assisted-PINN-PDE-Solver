@@ -86,3 +86,20 @@ The central research question is:
 > **How does the introduction of a variational quantum layer change the learning process of a Physics-Informed Neural Network?**
 
 The results are used to identify the **benefits, limitations, and problem-dependent design principles** of QAPINNs.
+
+## References
+
+1. Z. Hu, A. D. Jagtap, G. E. Karniadakis, and K. Kawaguchi, 
+   "When Do Extended Physics-Informed Neural Networks (XPINNs) Improve Generalization?"
+   *SIAM Journal on Scientific Computing*, 44(5), A3158–A3182, 2022.
+
+2. M. Raissi, P. Perdikaris, and G. E. Karniadakis,
+   "Physics-informed deep learning (Part I): Data-driven solutions of nonlinear partial differential equations," 2017.
+
+3. J. Shah, R. Lineswala, and A. Chopra,
+   "Benchmarking Quantum-Assisted PINN (QA-PINN) for Computational Fluid Dynamics,"
+   *2024 IEEE International Conference on Quantum Computing and Engineering (QCE)*,
+   pp. 1707–1712, 2024.
+
+4. "Effect of Data Encoding on the Expressive Power of Variational Quantum-Machine-Learning Models,"
+   *Physical Review A*.
