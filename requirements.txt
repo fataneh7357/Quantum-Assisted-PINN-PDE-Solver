@@ -1,0 +1,6 @@
+torch
+pennylane
+numpy
+scipy
+matplotlib
+pandas
