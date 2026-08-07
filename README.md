@@ -47,8 +47,7 @@ We investigate the effects of:
 ```text
 Explainable-QAPINN/
 ├── notebooks/       # PINN and QAPINN experiments
-├── results/         # Experimental results and figures
-├── report/          # Technical report
+├── Report/          # Technical report
 ├── Key Findings/    # Key Findings
 ├── Future Works/    # Future Works
 ├── presentation/    # Project presentation
